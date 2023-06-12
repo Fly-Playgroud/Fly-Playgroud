@@ -10,9 +10,9 @@
 
 🤖 **Github State**
 
-![BUG-Fly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fly-Playgroud&show_icons=true&locale=en&layout=compact)
+![BUG-Fly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fly-Playgroud&count_private=true&show_icons=true&locale=en&layout=compact&contribs=true)
 
 
 💻 **Top Language**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fly-Playgroud&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fly-Playgroud&layout=compact&contribs=true&count_private=true)
